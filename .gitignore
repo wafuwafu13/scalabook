@@ -1,0 +1,7 @@
+*.bsp
+*.metals
+*.class
+**/project
+**/target
+*.scalalfmt.conf
+**/.vscode
